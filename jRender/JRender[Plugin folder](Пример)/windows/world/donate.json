@@ -1,0 +1,65 @@
+{
+  "name": "donate",
+  "x": -263.0,
+  "y": 79.0,
+  "z": -126.0,
+  "rotation": 225,
+  "width": 5.7,
+  "height": 3.0,
+  "scale": 3.0,
+  "onCollide": "",
+  "strings": [
+    {
+      "x": 40,
+      "y": 2,
+      "scale": 1,
+      "font": 50,
+      "align": 1,
+      "string": "&4Привелегии:"
+    },
+    {
+      "x": 65,
+      "y": 25,
+      "scale": 1,
+      "font": 40,
+      "align": 1,
+      "string": "&f[&eVip&f] &f- 150руб/месяц    "
+    },
+    {
+      "x": 74,
+      "y": 35,
+      "scale": 1,
+      "font": 40,
+      "align": 1,
+      "string": "&f[&bPremium&f] &f- 300руб/месяц"   
+    },
+    {
+      "x": 71,
+      "y": 45,
+      "scale": 1,
+      "font": 40,
+      "align": 1,
+      "string": "&f[&5Deluxe&f] &f- 500руб/месяц "
+    },
+    {
+      "x": 75,
+      "y": 55,
+      "scale": 1,
+      "font": 40,
+      "align": 1,
+      "string": "&f[&6Ultimate&f] &f- 1000руб/месяц"
+    }
+],
+  "images": [],
+  "tables": [],
+  "buttons": [
+    {
+      "x": 15,
+      "y": 65,
+      "width": 130,
+      "height": 20,
+      "displayString": "&4Купить",
+      "command": "http://adt-team.com/privilege"
+    }
+]
+}

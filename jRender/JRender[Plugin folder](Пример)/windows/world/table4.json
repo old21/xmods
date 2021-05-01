@@ -1,0 +1,24 @@
+{
+  "name": "table4",
+  "x": -255.0,
+  "y": 80.0,
+  "z": -125.0,
+  "rotation": 180,
+  "width": 5.0,
+  "height": 1.0,
+  "scale": 2.0,
+  "onCollide": "",
+  "strings": [
+    {
+      "x": 110,
+      "y": 5,
+      "scale": 3,
+      "font": 50,
+      "align": 1,
+      "string": "&4Чаровальня"
+    }
+],
+  "images": [],
+  "tables": [],
+  "buttons": []
+}
